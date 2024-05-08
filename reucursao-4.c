@@ -1,3 +1,4 @@
+//Faça uma função recursiva que permita somar os elementos de um vetor de inteiros.
 #include <stdio.h>
 
 int sum(int *vet, int t){
